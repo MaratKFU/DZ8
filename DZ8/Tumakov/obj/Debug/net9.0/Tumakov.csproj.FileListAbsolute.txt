@@ -1,0 +1,14 @@
+C:\Users\Honor\source\repos\DZ8\Tumakov\bin\Debug\net9.0\Tumakov.exe
+C:\Users\Honor\source\repos\DZ8\Tumakov\bin\Debug\net9.0\Tumakov.deps.json
+C:\Users\Honor\source\repos\DZ8\Tumakov\bin\Debug\net9.0\Tumakov.runtimeconfig.json
+C:\Users\Honor\source\repos\DZ8\Tumakov\bin\Debug\net9.0\Tumakov.dll
+C:\Users\Honor\source\repos\DZ8\Tumakov\bin\Debug\net9.0\Tumakov.pdb
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.AssemblyInfoInputs.cache
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.AssemblyInfo.cs
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.dll
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\refint\Tumakov.dll
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.pdb
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\Tumakov.genruntimeconfig.cache
+C:\Users\Honor\source\repos\DZ8\Tumakov\obj\Debug\net9.0\ref\Tumakov.dll
